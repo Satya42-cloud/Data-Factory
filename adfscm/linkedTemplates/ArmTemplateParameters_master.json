@@ -1,0 +1,51 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adfscm"
+		},
+		"adls_ls_accountKey": {
+			"value": ""
+		},
+		"git_ls_password": {
+			"value": ""
+		},
+		"git_ls1_password": {
+			"value": ""
+		},
+		"sql_ls_password": {
+			"value": ""
+		},
+		"adls_ls_properties_typeProperties_url": {
+			"value": "https://scmdataset.dfs.core.windows.net/"
+		},
+		"git_ls_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Satya42-cloud/Data-Factory/refs/heads/main/Stream_Data/"
+		},
+		"git_ls_properties_typeProperties_userName": {
+			"value": "satyajeetswain168@gmail.com"
+		},
+		"git_ls1_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/Satya42-cloud/Data-Factory/refs/heads/main/Static_Data/"
+		},
+		"git_ls1_properties_typeProperties_userName": {
+			"value": "satyajeetswain168@gmail.com"
+		},
+		"sql_ls_properties_typeProperties_server": {
+			"value": "scmserver12.database.windows.net"
+		},
+		"sql_ls_properties_typeProperties_database": {
+			"value": "scmdatabase"
+		},
+		"sql_ls_properties_typeProperties_userName": {
+			"value": "Satya"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
