@@ -1,4 +1,4 @@
-Product ID,Product Name,Category,Size (ml),Price,Bottles per 25kg Box
+Product_ID,Product_Name,Category,Size_in_ml,Price,Bottles_per_25kg_Box
 P001,Water 250ml,Water,250,5,100
 P002,Water 500ml,Water,500,10,50
 P003,Water 1000ml,Water,1000,20,25
