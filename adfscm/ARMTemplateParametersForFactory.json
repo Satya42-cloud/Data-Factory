@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "adfscm"
 		},
+		"AzureDatabricks1_accessToken": {
+			"value": ""
+		},
 		"adls_ls_accountKey": {
 			"value": ""
 		},
@@ -16,6 +19,9 @@
 		},
 		"sql_ls_password": {
 			"value": ""
+		},
+		"AzureDatabricks1_properties_typeProperties_existingClusterId": {
+			"value": "0214-050359-vvkoc0kj"
 		},
 		"adls_ls_properties_typeProperties_url": {
 			"value": "https://scmdataset.dfs.core.windows.net/"
