@@ -1,9 +1,0 @@
-Product_ID,Product_Name,Category,Size_in_ml,Price,Bottles_per_25kg_Box
-P001,Water_250ml,Water,250,5,100
-P002,Water_500ml,Water,500,10,50
-P003,Water_1000ml,Water,1000,20,25
-P004,Soda_250ml,Soda,250,15,100
-P005,Soda_500ml,Soda,500,25,50
-P006,Soda_1000ml,Soda,1000,50,25
-P002,Water_500ml,Water,500,10,50
-P003,Water_1000ml,Water,1000,20,25
